@@ -39,11 +39,11 @@ Collected 705 corroded surface images, annotated via Roboflow for instance segme
 #### i. IOU Intersection over Union
 In simple terms, IoU measures the degree of overlap between the predicted bounding box and the ground truth bounding box, expressed as a percentage. A diagrammatic representation of IoU is shown in the accompanying figure[6],
 ![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/520a973e-50e8-49d4-bead-142e48e7ee0f)
-![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/28e47a6d-afa7-4976-be82-c28e2524e92e)
+
 
 #### ii. Precision & Recall
 ![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/3f01c374-89ce-47ee-b799-4a36c7545f6f)
-
+![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/28e47a6d-afa7-4976-be82-c28e2524e92e)
 
 
 
