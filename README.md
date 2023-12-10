@@ -77,7 +77,6 @@ In conclusion, a mobile-based AI-driven corrosion detection system was successfu
 ![WhatsApp Image 2023-12-10 at 15 08 50_f1218cb1](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/b55ef25b-38c0-43f3-9061-586ad6fcd46e)
 
 ![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/d34623df-0378-4d65-930f-47a52a09dfdc)
-
 ![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/a4c6ae3b-8062-4878-97a6-5c692341f927)
 
 
