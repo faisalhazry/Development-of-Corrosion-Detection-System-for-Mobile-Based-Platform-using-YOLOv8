@@ -45,7 +45,10 @@ In simple terms, IoU measures the degree of overlap between the predicted boundi
 
 ![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/28e47a6d-afa7-4976-be82-c28e2524e92e)
 
-![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/b51d6f0a-86df-42e2-8ac5-fd182da7b7c5)
+![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/256adaf4-6f16-403e-976e-80d765dc9edf)
+![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/5a4916eb-8e07-49b2-9e1b-1af6bfc4bf6a)
+
+
 
 
 ## III. RESULT AND DISCUSSION
