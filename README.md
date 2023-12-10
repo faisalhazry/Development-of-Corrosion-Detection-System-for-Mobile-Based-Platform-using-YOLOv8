@@ -46,11 +46,6 @@ In simple terms, IoU measures the degree of overlap between the predicted boundi
 ![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/28e47a6d-afa7-4976-be82-c28e2524e92e)
 
 
-
-
-
-
-
 ## III. RESULT AND DISCUSSION
 ### A. Precision & Recall curve
 #### i. Precision & Recall curve
