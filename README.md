@@ -45,8 +45,7 @@ In simple terms, IoU measures the degree of overlap between the predicted boundi
 
 ![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/28e47a6d-afa7-4976-be82-c28e2524e92e)
 
-![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/256adaf4-6f16-403e-976e-80d765dc9edf)
-![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/5a4916eb-8e07-49b2-9e1b-1af6bfc4bf6a)
+
 
 
 
@@ -56,7 +55,8 @@ In simple terms, IoU measures the degree of overlap between the predicted boundi
 #### i. Precision & Recall curve
 ![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/547b3f3f-4f9f-4522-a6cf-1b29b9cb1b39)
 
-![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/97efe037-d334-4f54-9a5d-dedbe85894d2)
+![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/256adaf4-6f16-403e-976e-80d765dc9edf)
+![image](https://github.com/faisalhazry/Development-of-Corrosion-Detection-System-for-Mobile-Based-Platform-using-YOLOv8/assets/121289405/5a4916eb-8e07-49b2-9e1b-1af6bfc4bf6a)
 
 ### B. Model Deployment
 #### i. Flask Framework
